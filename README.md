@@ -1,2 +1,2 @@
 # singolo
-RSS-Task single page 
+https://Gumerov-Marat.github.io/singolo
